@@ -1,0 +1,8 @@
+{
+    "osrf/vrc_arenas": {
+        "project_file": "data/repositories/osrf/vrc_arenas.json",
+        "project_path": "data/repositories/osrf/vrc_arenas/",
+        "is_fork": false,
+        "github_repo": "https://github.com/osrf/vrc_arenas"
+    }
+}
